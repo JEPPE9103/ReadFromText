@@ -1,5 +1,5 @@
 # Cars and Birds
-A simple C++ program to read and sort names of cars and birds from text files.
+A C++ program that reads the contents of two separate text files ('Cars.txt' and 'Birds.txt'), sorts them, and prints out their contents in descending order based on the length of each line
 
 ### Table of Contents
 - Introduction
